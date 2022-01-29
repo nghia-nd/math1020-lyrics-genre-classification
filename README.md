@@ -2,10 +2,10 @@
 ##### **Project title**: A lyric-based genre classification – A Naïve Bayes approach from naïve students.
 ##### **Team**: Grindset
 ##### **Members**
-- Nguyễn Đại Nghĩa - 20nghia.nd@vinuni.edu.vn
-- Bùi Đức Khánh An – 20an.bdk@vinuni.edu.vn
-- Khau Liên Kiệt – 20kiet.kl@vinuni.edu.vn
-- Vương Đỗ Tuấn Thành – 20thanh.vdt@vinuni.edu.vn
+- Nguyễn Đại Nghĩa
+- Bùi Đức Khánh An
+- Khau Liên Kiệt
+- Vương Đỗ Tuấn Thành
 
 ---
 The key concept of the project is to implement Naïve Bayes’ Theorem for classifying song into the genres through the lyrics. The work procedure divides into three steps: 
